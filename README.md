@@ -4,7 +4,7 @@
 For this project, you will need to install the following packages:
 
 ```bash 
-pip install matplotlib numpy opencv-python pyfirmata
+pip3 install matplotlib numpy opencv-python pyfirmata
 ```
 
 ## Setup and usage 
