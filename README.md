@@ -1,4 +1,13 @@
 # RobbiesProject
+This is a project about building from scratch a robot plotter named RoboVinci.
+
+All the procedure followed is described in the report named RobbiesProjectProposal.pdf
+
+The software can be found in Final.ipynb.
+
+A demonstration video with RoboVinci in action is also provided in RoboVinci.mp4
+
+In the folder assets you can find the pictures (dolphin.jpg, alpha.jpg, mickey.png) mentioned in the report (RobbiesProjectProposal.pdf)  that were used as input in order to get the drawings that are presented in the report. Additionally, there are the DemoProject.png and circle.jpg which were used for our first tests of the robot. Finally, the plotter-scheme.png is our initial scheme of the robot before implementing it with real hardware.
 
 ## Requirements
 For this project, you will need to install the following packages:
