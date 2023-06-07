@@ -3,7 +3,7 @@ This is a project about building from scratch a real robot plotter named RoboVin
 
 All the procedure followed is described in the report named RobbiesProjectProposal.pdf
 
-The software can be found in Final.ipynb with headers describing what each section is about.
+All the code can be found in Final.ipynb with headers describing what each section is about.
 
 A demonstration video with RoboVinci in action is also provided in RoboVinci.mp4
 
